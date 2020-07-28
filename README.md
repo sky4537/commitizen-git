@@ -17,7 +17,7 @@
 #### 1.1 方案一： 全局安装 commitizen
 
 ```
-// 依次执行
+// 依次执行2
 
 npm install -g commitizen
 
